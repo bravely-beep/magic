@@ -1,0 +1,9 @@
+[workspace]
+
+resolver = "2"
+
+members = [
+    "magic",
+    "magic_proc",
+    "proc_macro_utils"
+]
